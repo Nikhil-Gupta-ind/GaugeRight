@@ -54,13 +54,20 @@ There’s always room for improvement in terms of design and architecture. Futur
 
 ### Screenshots
 
-<img src="screenshots/screenshot_cam2.png" alt="Camera Screen" width="250">
-<img src="screenshots/screenshot_cam.jpg" alt="Camera Screen" width="250">
+<div style="display: flex; justify-content: center; gap: 10px;">
+    <img src="screenshots/screenshot_cam2.png" alt="Camera Screen" width="250">
+    <img src="screenshots/screenshot_cam.jpg" alt="Camera Screen" width="250">
+</div>
 
-<img src="screenshots/screenshot1_day.png" alt="Reading Screen" width="250">
-<img src="screenshots/screenshot2_day.png" alt="Reading Screen" width="250">
-<img src="screenshots/screenshot3_day.png" alt="Report Screen" width="250">
+<div style="display: flex; justify-content: center; gap: 10px; margin-top: 10px;">
+    <img src="screenshots/screenshot1_day.png" alt="Reading Screen" width="250">
+    <img src="screenshots/screenshot2_day.png" alt="Reading Screen" width="250">
+    <img src="screenshots/screenshot3_day.png" alt="Report Screen" width="250">
+</div>
 
-<img src="screenshots/screenshot1_night.png" alt="Report Night" width="250">
-<img src="screenshots/screenshot2_night.png" alt="Reading Night" width="250">
-<img src="screenshots/screenshot3_night.png" alt="Report Night" width="250">
+<div style="display: flex; justify-content: center; gap: 10px; margin-top: 10px;">
+    <img src="screenshots/screenshot1_night.png" alt="Report Night" width="250">
+    <img src="screenshots/screenshot2_night.png" alt="Reading Night" width="250">
+    <img src="screenshots/screenshot3_night.png" alt="Report Night" width="250">
+</div>
+
