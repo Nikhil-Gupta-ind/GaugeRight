@@ -54,8 +54,13 @@ There’s always room for improvement in terms of design and architecture. Futur
 
 ### Screenshots
 
-![Camera Screen](screenshots/screenshot_cam2.png) ![Camera Screen](screenshots/screenshot_cam.jpg)
+<img src="screenshots/screenshot_cam2.png" alt="Camera Screen" width="250">
+<img src="screenshots/screenshot_cam.jpg" alt="Camera Screen" width="250">
 
-![Reading Screen](screenshots/screenshot1_day.png) ![Reading Screen](screenshots/screenshot2_day.png) ![Report Screen](screenshots/screenshot3_day.png)
+<img src="screenshots/screenshot1_day.png" alt="Reading Screen" width="250">
+<img src="screenshots/screenshot2_day.png" alt="Reading Screen" width="250">
+<img src="screenshots/screenshot3_day.png" alt="Report Screen" width="250">
 
-![Report Night](screenshots/screenshot1_night.png) ![Reading Night](screenshots/screenshot2_night.png) ![Report Night](screenshots/screenshot3_night.png)
+<img src="screenshots/screenshot1_night.png" alt="Report Night" width="250">
+<img src="screenshots/screenshot2_night.png" alt="Reading Night" width="250">
+<img src="screenshots/screenshot3_night.png" alt="Report Night" width="250">
